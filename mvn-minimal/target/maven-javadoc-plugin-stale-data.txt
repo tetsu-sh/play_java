@@ -1,0 +1,47 @@
+@options
+@packages
+-classpath
+'/home/ubuntu/.m2/repository/one/cafebabe/businessCalendar4j/1.22/businessCalendar4j-1.22.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/ubuntu/workspace/own/play_java/mvn-minimal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mvn-minimal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/ubuntu/workspace/own/play_java/mvn-minimal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mvn-minimal 1.0-SNAPSHOT API'
+projava
+/home/ubuntu/.m2/repository/one/cafebabe/businessCalendar4j/1.22/businessCalendar4j-1.22.jar = 1691143512647
+/home/ubuntu/workspace/own/play_java/mvn-minimal/src/main/java = 1691147667000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/allclasses-index.html = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/allpackages-index.html = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/element-list = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/help-doc.html = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/index-all.html = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/index.html = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/jquery-ui.overrides.css = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/member-search-index.js = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/module-search-index.js = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/overview-tree.html = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/package-search-index.js = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/script.js = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/search.js = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/stylesheet.css = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/tag-search-index.js = 1691154984000
+/home/ubuntu/workspace/own/play_java/mvn-minimal/target/site/apidocs/type-search-index.js = 1691154984000

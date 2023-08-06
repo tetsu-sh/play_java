@@ -1,0 +1,8 @@
+{
+  "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-openjdk-arm64",
+  "java.format.enabled": true,
+  "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+  "java.format.settings.profile": "GoogleStyle",
+  "editor.formatOnSave": true,
+  "java.debug.settings.onBuildFailureProceed": true
+}
